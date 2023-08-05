@@ -1,11 +1,4 @@
-# MyHouzApp
-Property Leasing Application
-This application is connected to a Google Firebase Server and developed using Java with Android Studio. It is also connected to a mock PayPal config.
-To setup the application, use the MainActivity.java class and run the application. 
-This application was developed for the class of TK2323-Mobile Programming by the group members as follows;
-1. SASIKUMAR DEVARAJ (A182765)
-2. VIRINDHASHRI SIVANATHAN (A183848)
-3. THIVVYADARSHINI NAIR K VIJAYANDRAN (A180978)
-4. LEE WEI XIAN (A180097)
+# RegreX
+Financial Management Open Banking Application
+This application is connected to a Google Firebase Server and developed using Java with Android Studio. This project was part of my final year project research under the National University of Malaysia. For more information regarding this project, do drop me an email at sasikumardevaraj23@gmail.com
 
-The UI, full project report and user manual is available in a Google Drive folder; https://drive.google.com/drive/folders/1WK08opvzjrXaeTYGpSmoSorFfs6UYKk9?usp=share_link
