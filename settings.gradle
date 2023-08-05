@@ -10,7 +10,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+
+        maven { url 'https://jitpack.io' } // Add the JitPack repository for AChartEngine
+
     }
 }
-rootProject.name = "MyHouzApp236"
+rootProject.name = "FYP_OBv1"
 include ':app'
